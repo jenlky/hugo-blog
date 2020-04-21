@@ -1,0 +1,36 @@
+baseURL = "https://jenlky.com/"
+languageCode = "en-us"
+title = "Jenssen Lee"
+copyright = "This is a customized copyright."
+theme = "diary"
+# googleAnalytics = "UA-123-45"
+
+[params]
+  disableToC= true
+  subtitle = "Themed by Diary."
+  enableGitalk = true
+
+[params.gitalk]
+  owner = "jenlky"
+  repo = "repo name"
+  client_id = "your client id"
+  client_secret = "your client secret"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  url = "/portfolio"
+  name = "Portfolio"
+  weight = 1
+
+[[menu.main]]
+  url = "/writings"
+  name = "Writings"
+  weight = 2
+
+[[menu.main]]
+  url = "/tags"
+  name = "Tags"
+  weight = 3
