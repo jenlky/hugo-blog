@@ -1,5 +1,5 @@
 ---
-title: "Hello! My name is Jenssen"
+title: "Jenssen Lee"
 date: 2020-04-11T17:24:36+08:00
 description: "About Me"
 featured_image: "/images/notebook.jpg"
@@ -8,7 +8,7 @@ draft: false
 enableMathJax: true
 ---
 
-Hi, my name is Jenssen Lee Kang Yuan or @jenlky on the internet.
+Hi, I'm Jenssen Lee Kang Yuan or jens for short!
 
 I'm a Software Engineer in Singapore who has been programming for over a year 
 and just graduated from ThoughtWorks Jumpstart, a 3 months coding bootcamp. 
