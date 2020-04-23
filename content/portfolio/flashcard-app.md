@@ -4,7 +4,7 @@ date: "2018-04-23"
 tags: ["React", "Redux", "Express"]
 ---
 
-![Flashcard App](../assets/flashcard-app-1400.webp "Flashcard App")
+![Flashcard App](../../static/flashcard-app-1400.webp "Flashcard App")
 
 [Flashcard](https://shrouded-taiga-52624.herokuapp.com/)
 
