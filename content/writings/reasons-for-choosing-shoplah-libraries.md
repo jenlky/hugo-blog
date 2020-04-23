@@ -15,30 +15,30 @@ It was created with the following libraries:
 > 
 > **Testing:** Mocha and Chai
 
-###React Router###
+### React Router ###
 I used react-router because for `ReactDOM.render(<App />)`, class component App needed a way to render between a bunch of routes such as '/', '/cart', '/user/profile'. I didn't know how to use server-side rendering for React.
 
 React-router could provide that out of the box. Whereas link or anchor tag doesn't work because I'm choosing to render a specific component/container if the route tallies. 
 
 Further explanation: [Server-side vs Client-side](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually)
 
-###Redux###
+### Redux ###
 I chose Redux because I have never used it before and I wanted to play around with it. I like the idea of getting back the same output for the same input very much - it's like Mathematics. 
 
 However, the setup is a little verbose since you have to change/write code in a few places to make changes (like creating containers to mapStateToProps and mapDispatchToProps as compared to in React). The upside is whenever there's a bug, it's a lot easier to track it down. 
 
-####Redux Thunk####
+#### Redux Thunk ####
 In Redux, reducer must be pure - it can't have any side effects - and action can only be an object. However, redux-thunk allows user to dispatch an action creator that returns a function instead of an action object. This function doesn't need to be pure; it is allowed to have side effects, including executing asynchronous API calls. 
 
-####Redux Persist####
+#### Redux Persist ####
 Redux-persist was used to persist data upon refresh. For example, the user is logged in and adds products to cart. The products should remain in Redux store when the user refreshes.
 
-###dotenv###
+### dotenv ###
 > Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
 
 It allows user to store passwords, API keys and sensitive information in a file called `.env`. The file is usually added to `.gitignore` along with `node_modules` to prevent it from being added to git.
 
-###CORS###
+### CORS ###
 > CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 
 [Introduction](https://www.html5rocks.com/en/tutorials/cors/)
@@ -61,11 +61,11 @@ The use-case for CORS is simple. Imagine the site alice.com has some data that t
 **Why did I have to use it for my webapp?**
 -->
 
-###Passport###
-####passport-auth0####
+### Passport ###
+#### passport-auth0 ####
 I chose passport-auth0 strategy because I was learning about authentication and Mongoose and was looking for a no-frills authentication method. Therefore, I chose a third-party authentication provider like Auth0. 
 
-####express-session####
+#### express-session ####
 > The Auth0 Passport strategy enforces use of state parameter in OAuth 2.0 authorization requests and requires session support in Express to be enabled.
 
 Session data is not saved in the cookie itself, just the session ID. Session data is stored server-side.

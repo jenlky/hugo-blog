@@ -10,7 +10,7 @@ To find out all the libraries that I used and the reasons behind my decision,
 check out this [post](/reasons-for-choosing-shoplah-libraries/).
 
 
-###Cart controller logic###
+### Cart controller logic ###
 > Redux action creators flow chart:
 >
 > AddToCart (product doesn't exist or qty === 0) -> cart controller -> UpdateStore -> CalculatePrice
@@ -26,7 +26,7 @@ My initial thought was that the cart logic should not be duplicated in both cart
 The reason was because http requests took time and the UX changes were not immediate. I re-wrote it so my action creators would dispatch actions first, before making http requests.
 
 
-###React-router doesn't work after connecting to Redux###
+### React-router doesn't work after connecting to Redux ###
 This is a known issue in react-redux, you can read more about it [here](https://github.com/reduxjs/react-redux/issues/507)
 or [here](https://github.com/reduxjs/react-redux/blob/master/docs/troubleshooting.md#my-views-arent-updating-when-something-changes-outside-of-redux).
 *NavLink* didn't work because `react-redux` connect method implements *shouldComponentUpdate* which will cause component not to render when props didn't change. And this is conflicting with `react-router 4`. 
@@ -42,7 +42,7 @@ There are at least 3 ways to get it working:
   However, that didn't work too until I added `<Router history={history}> to App.js before Switch` and it works!
 
 
-###React spinner###
+### React spinner ###
 React spinner only works when the user is not logged in, and he/she tries to access restricted routes like `/cart` or `/user/profile`. 
 
 The loading page did not show the react spinner which was weird because `if (this.state.loading) return null` works. But I guess `React` updated the state too fast so it didn't work. 
@@ -64,7 +64,7 @@ componentDidMount() {
 ```
 
 
-###Redux-persist###
+### Redux-persist ###
 I used this library because my app loses all its store data on refresh. Redux store does not persist data upon refresh. 
 
 For example, if an user logs in successfully and navigates to another page - he'd lose all his shopping cart items and all his login details from `Redux store`. 
@@ -105,7 +105,7 @@ Although this means that an extra action has to be dispatched for non-logged in 
 - create a permanent and a temporary reducer - blacklist the temporary one. Too complicated.
 
 
-###I used Auslogics Disk Defrag defrag and optimise###
+### I used Auslogics Disk Defrag defrag and optimise ###
 On hindsight, I shouldn't do that because it messed with my environment variables path and node\_modules. I knew my node\_modules were faulty because it showed the error -
 **'nodemon' is not recognized as an internal or external command, operable program or batch file.**
 

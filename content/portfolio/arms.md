@@ -8,13 +8,10 @@ tags: ["Full stack"]
 
 Arms is the frontend, while Legs is the backend and the server.
 
-[ARMS](https://demo-armadillo-arms.herokuapp.com/)
+[ARMS](https://demo-armadillo-arms.herokuapp.com/), [Github](https://github.com/armadillo-apps/arms2)
 
-[LEGS](https://demo-armadillo-legs.herokuapp.com/)
+[LEGS](https://demo-armadillo-legs.herokuapp.com/), [Github](https://github.com/armadillo-apps/legs)
 
-[Arms github](https://github.com/armadillo-apps/arms2)
-
-[Legs github](https://github.com/armadillo-apps/legs)
 
 ### Problem ###
 ARMS help ThoughtWorks Singapore manage housing leases to foreign employees who travel to Singapore for projects.

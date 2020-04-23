@@ -19,7 +19,7 @@ When I tried to root Redmi Note 7 Pro, it told me to wait for 360 hours (or 15 d
 
 Eventually I decided on using Mi Mover to transfer files over Wifi. Some apps weren't transferred over, and the contacts and messages required multiple transfers... but it was quite reliable. 
 
-###Prerequisites to unlock bootloader###
+### Prerequisites to unlock bootloader ###
 1. [Disable driver signature enforcement in Windows](http://en.miui.com/thread-237673-1-1.html)
 
 2. [Install ADB and Fastboot tools with drivers on Windows](https://forum.xda-developers.com/showthread.php?t=2588979)
@@ -32,7 +32,7 @@ Eventually I decided on using Mi Mover to transfer files over Wifi. Some apps we
 
 4. Check if the bootloader is locked at *Settings/Additional settings/Developer Options/Mi Unlock status*.
 
-###Requisites###
+### Requisites ###
 1. Unlock bootloader
 
 2. Ensure the recovery ROM is in the same folder as Adb folder. shift + rightclick open command window here. Enter the following:
