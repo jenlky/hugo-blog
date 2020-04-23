@@ -3,18 +3,12 @@ languageCode = "en-us"
 title = "Jenssen Lee"
 copyright = "This is a customized copyright."
 theme = "diary"
-# googleAnalytics = "UA-123-45"
+disqusShortname = "jenlky"
+googleAnalytics = "UA-139118044-2"
 
 [params]
   disableToC= true
   subtitle = "Themed by Diary."
-  enableGitalk = true
-
-[params.gitalk]
-  owner = "jenlky"
-  repo = "repo name"
-  client_id = "your client id"
-  client_secret = "your client secret"
 
 [taxonomies]
   tag = "tags"
