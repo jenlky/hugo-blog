@@ -4,7 +4,7 @@ date: "2019-04-04"
 tags: ["Express", "MongoDB"]
 ---
 
-![ShopLah front page](../../static/shoplah.webp "ShopLah front page")
+![ShopLah front page](/images/shoplah.webp "ShopLah front page")
 
 [Shoplah](https://shoplah.herokuapp.com/)
 

@@ -3,7 +3,7 @@ title: Tribute Page
 date: "2018-03-26"
 ---
 
-![Tribute Page](../assets/tribute-page-557.png "Tribute Page")
+![Tribute Page](/images/tribute-page-879.webp "Tribute Page")
 
 [Tribute Page](https://jenlky.github.io/tribute-page/)
 

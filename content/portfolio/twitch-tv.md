@@ -3,7 +3,7 @@ title: Twitch TV
 date: "2018-03-25"
 ---
 
-![Twitch TV](../assets/twitch-tv-573.png "Twitch TV")
+![Twitch TV](/images/twitch-tv.png "Twitch TV")
 
 [Twitch TV](https://jenlky.github.io/twitch-tv/)
 

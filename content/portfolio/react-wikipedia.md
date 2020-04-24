@@ -3,7 +3,7 @@ title: React Wikipedia
 date: "2018-04-22"
 ---
 
-![React Wikipedia](../../static/react-wikipedia.png "React Wikipedia")
+![React Wikipedia](/images/react-wikipedia.png "React Wikipedia")
 
 [React Wikipedia](https://jenlky.github.io/react-wikipedia/)
 

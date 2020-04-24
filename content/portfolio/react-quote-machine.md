@@ -3,7 +3,7 @@ title: React Quote Machine
 date: "2018-04-11"
 ---
 
-![React Quote Machine](../assets/react-quote-machine.png "React Quote Machine")
+![React Quote Machine](/images/react-quote-machine.png "React Quote Machine")
 
 [React Quote Machine](https://jenlky.github.io/react-quote-machine/)
 
