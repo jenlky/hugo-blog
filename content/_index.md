@@ -11,20 +11,19 @@ enableMathJax: true
 Hi, I'm Jenssen Lee Kang Yuan or jens for short!
 
 I'm a Software Engineer in Singapore who has been programming for over a year 
-and just graduated from ThoughtWorks Jumpstart, a 3 months coding bootcamp. 
+and graduated from ThoughtWorks Jumpstart, a 3 months coding bootcamp. 
+This site contains my writings on technology, software development etc along with my portfolio.
 
-This site contains my essays on technology, software development and
-whatever is on my mind at the moment. The projects page holds a
-portfolio of my projects.
+*Why do I want to work with software?* 
 
-I code because software is eating the world and I want to partake in
-it. I enjoy solving problems and working with individuals dedicated to
-their craft.
+Software is eating the world. I want to partake in it because it's where I can maximise impact at scale.
+It has a low barrier to entry as with writing. You are a Writer and a Software Developer as long as you make money off it.
+I enjoy solving problems and working with individuals dedicated to their craft.
 
-You can contact me at <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>.
+ My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
 
-Github: <a href="https://github.com/jenlky">@jenlky</a>
+[Github](https://github.com/jenlky)
 &nbsp;
-Twitter: <a href="https://twitter.com/Jenlky">@jenlky</a>
+[Twitter](https://twitter.com/Jenlky)
 &nbsp;
-LinkedIn: <a href="https://www.linkedin.com/in/jenlky/">@jenlky</a>
+[LinkedIn](https://www.linkedin.com/in/jenlky/)
