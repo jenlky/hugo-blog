@@ -1,6 +1,8 @@
 ---
 title: JumpStart by ThoughtWorks review
 date: "2020-01-19"
+description: "'What's the difference between JumpStart and other coding bootcamps?' a friend asked."
+comment : true
 ---
 
 <!-- 21 May - 8 August 2019 -->
