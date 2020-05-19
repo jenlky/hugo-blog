@@ -9,6 +9,7 @@ googleAnalytics = "UA-139118044-2"
 [params]
   disableToC= true
   subtitle = "Themed by Diary."
+  enableReadingTime = true
 
 [taxonomies]
   tag = "tags"
