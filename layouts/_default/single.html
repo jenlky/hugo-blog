@@ -45,7 +45,7 @@
           {{.Content}}
           {{ if not .Lastmod.IsZero }}
           <HR width="100%" id="EOF">
-          <p style="color:#777;">Last modified on {{ .Page.Lastmod.Format "2 January 2006" }}</p>
+          <p style="color:#777;">Last updated: {{ .Page.Lastmod.Format "2 January 2006" }}</p>
           {{ end }}
         </div>
       </div>
