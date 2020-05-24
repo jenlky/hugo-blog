@@ -9,8 +9,8 @@
             {{ end }}
 
             <div class="{{$post_class}}"
-                 style="background-image: url('{{ $featured_image | relLangURL}}')">
-                <div class="post-title">
+                 style="background-image: url('{{ $featured_image | relLangURL}}'); background-size: contain; height: 200px;">
+                <!-- <div class="post-title" style="background-color: none !important;">
                     {{ .Title }}
                     {{ if .Params.description }}
                     <div class="post-subtitle">
@@ -18,12 +18,6 @@
                     </div>
                     {{ end }}
                     <div class="post-meta">
-                        {{ if .Params.date}}
-                        <time itemprop="datePublished">
-                            {{ .PublishDate.Format "2006-01-02 15:04" }}
-                        </time>
-                        {{ end }}
-
                         {{ if .Params.categories }}
                             <i class="material-icons" style="">folder</i>
                                 <a href="{{ "/categories/" | relLangURL }}{{ .Params.categories | urlize }}">{{ .Params.categories }}</a>
@@ -38,7 +32,7 @@
                             {{ end }}
                         {{ end }}
                     </div>
-                </div>
+                </div> -->
             </div>
             
             <div class="post-body-wrapper">
@@ -46,7 +40,7 @@
                     {{.Content}}
                     {{ if not .Lastmod.IsZero }}
                     <HR width="100%" id="EOF">
-                    <p style="color:#777;">Last modified on {{ .Page.Lastmod.Format "2006-01-02" }}</p>
+                    <p style="color:#777;">Last updated: {{ .Page.Lastmod.Format "2 January 2006" }}</p>
                     {{ end }}
                 </div>
             </div>
