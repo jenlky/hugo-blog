@@ -2,6 +2,7 @@
 title: "Reviewing 'NS not conducive for personal dialogue'"
 date: 2020-04-11T15:00:00+08:00
 comment: true
+lastmod: 2020-05-21T15:00:0+08:00
 ---
 
 ![NS not conducive for personal dialogue](/images/ns-not-conducive-for-personal-dialogue.png "NS not conducive for personal dialogue")
