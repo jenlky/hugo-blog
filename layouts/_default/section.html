@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div ref="streamContainer" class="stream-container">
-  <div class="post-list-container post-list-container-shadow">
+  <div class="post-list-container post-list-container-shadow" style="padding: 0;">
     {{ range .Paginator.Pages.GroupByDate "2006" }}
     <a class="a-block">
       <div class="post-item-wrapper post-item-wrapper-no-hover">
-        <div class="post-item post-item-no-gaps">
+        <div class="post-item post-item-no-gaps" style="padding: 25px 0; margin: 0 20px 0 35px;">
           <div class="post-item-info-wrapper">
             <div class="post-item-title post-item-title-small year">
               {{ .Key }}
@@ -16,9 +16,9 @@
     {{ range .Pages }}
     <a href="{{ .RelPermalink }}" class="a-block">
       <div class="post-item-wrapper">
-        <div class="post-item post-item-no-gaps">
+        <div class="post-item post-item-no-gaps" style="padding: 25px 0; margin: 0 20px 0 35px;">
           <div class="post-item-info-wrapper">
-            <div class="post-item-title">
+            <div class="post-item-title" style="font-size: 26px;">
               {{.Title}}
             </div>
 
