@@ -1,12 +1,13 @@
 ---
-title: "How to frame your request"
+title: "Plausible deniability, implicit vs explicit requests, all preferences is a request"
 date: 2020-05-16T11:27:10+08:00
+lastmod: 2020-05-24T14:00:0+08:00
 ---
 
 > .... 
->   
+> 
 > Saurya: My most liked tweets are some random joke I made on some mega account. My most brilliant tweets IMO got no likes at all
->       
+> 
 > Me: IMO your tweets are underrated lol it's funny and intelligent. What's your most brilliant tweet? 
 > 
 > Saurya: Thank you!! I will have to dig for it when I am less sleepy!!
@@ -25,4 +26,4 @@ This raises the issue of `implicit request vs explicit request`. When an implici
 
 Another idea I want to explore is `requests couched in preferences` or more accurately, requests expressed as preferences. In this context, all preferences is a request. Does that mean people who are better at making requests are better at expressing their preferences? Does that mean they are more confident and comfortable at expressing their preferences? What does this say about their relationship with themselves? I remember reading about how people who come from money shamelessly request for a ton of things, while people who didn't come from money are afraid of looking like they want a "free handout" or seeming incompetent. 
 
-I remember watching a Chinese anime series that showed a marvel example of this. There was a group of explorers stuck in a pyramid and the exit was shut tight. To open the door, someone had to lie on the tomb to allow the rest to escape. The gangster said he'll leave the demoralising coward behind and whoever does not approve, please raise their hands. He added that he would only knock the coward out. Nobody raised their hands and he got what he wanted.
+I remember watching a Chinese anime series that showed a marvel example of this. There was a group of explorers stuck in a pyramid and the exit was shut tight. To open the door, someone had to lie on the tomb to allow the rest to escape. The gangster said he'll leave the demoralising coward behind and whoever does not approve, please raise their hands. He added that he would only knock the coward out. Nobody raised their hands - he got what he wanted and the group is spared from a morale drainer. By framing his request like that, it makes any opposition harder as they have to overcome the inertia of raising their hands out.
