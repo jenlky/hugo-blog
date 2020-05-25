@@ -1,7 +1,6 @@
 ---
 title: "Importance of strategy and tactics, how to find your big picture and me figuring out"
 date: 2020-05-26T00:02:05+08:00
-draft: true
 ---
 
 "Personal motivation structure" is like the tactics in service of the strategic doing of what resonates with you. Tactics are the actual means to achieve a short-term goal. Strategy, on the other hand, is the overarching plan to achieve long-term goals. You can't do without either of them. If you don't have a concrete plan, you won't be able to achieve anything. If you don't have a big picture, you'll be bogged down by inflexible, expired plans. 
