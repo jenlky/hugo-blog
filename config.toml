@@ -3,13 +3,13 @@ languageCode = "en-us"
 title = "Jenssen Lee"
 copyright = "This is a customized copyright."
 theme = "diary"
-disqusShortname = "jenlky"
-googleAnalytics = "UA-139118044-2"
 
 [params]
   disableToC= true
-  subtitle = "Themed by Diary."
+  subtitle = "Jenssen's Blog"
+  enableGitalk = false
   enableReadingTime = true
+  disqusShortname = "jenlky"
 
 [taxonomies]
   tag = "tags"
