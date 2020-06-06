@@ -6,7 +6,7 @@ theme = "diary"
 
 [params]
   disableToC= true
-  subtitle = "Jenssen's Blog"
+  subtitle = "Writing as conceptual piping"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"
