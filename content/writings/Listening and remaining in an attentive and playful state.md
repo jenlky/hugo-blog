@@ -1,0 +1,14 @@
+---
+title: "Listening and remaining in an attentive and playful state"
+date: 2020-06-07T23:59:49+08:00
+---
+
+I had a dreadful problem that I was unaware of during my earlier years that would have stumped my potential - i.e. I'd listen to other people advice and ignore it. Their words would bounce off me as if it's inconsequential. The single most helpful habit anyone can cultivate is to be receptive to advice, criticism and feedback. 
+
+For example, my prideful and stubborn sister became more open to advice and counsel in recent months, although to be fair it took like a decade before she's actually ready to hear it. It's what C.S Lewis meant by "He wants us to have a child's heart, but a grown-up's head" and "He wants us to be teachable as good children are". A good kid listens to reason and apologises when they're wrong. They don't lie to concoct meticulous plans to defraud corporations and tax-payers. Their lies are usually simple and for silly reasons. I interpret his quote as surrendering to the greater flow and let it (conscience? wisdom? counsel?) nudge you to become a better and wiser person. 
+
+At the same time, you have to `remain in a sort of attentive and playful state`. I like to use the analogy of martial arts especially striking movements to illustrate that. When it comes to a punch or a kick, the greatest force generated is when the relaxed muscles all move in one concerted movement to "snap" and return. Snap and return. Think of it as a vector moving one direction from 0 to 100. If your muscles start off at 50 due to fear or anxiety, it's not going to generate as much power as it could have. It's why any martial art worth its salt teaches you to breathe properly to relax yourself. There's even an anime called Kimetsu no Yaiba or Demon Slayer where its practitioners learn breathing techniques to fight on par with demons. 
+
+It's the same in flirting as in life too. If you're too nervous or preoccupied with something else, you would have missed your shot when the opportunity arises. `Venkatesh has an idea on how most successes come from capitalising on opportunity when it comes as compared to creating an opportunity`. In conversations too, sometimes my mind is filled with replies that I lacked the presence of mind to address what's being said. I guess note-taking would empty my mind and help me recall my talking points. 
+
+I used to be extremely bad at maintaining a presence of mind in conversations. I would forget what's being said and I didn't have an internal tracker to note how many times a certain point was repeated. I don't know how I got better at it.
