@@ -1,5 +1,5 @@
 ---
-title: "My thoughts on OKLETSGO lewd remarks controversy I"
+title: "My thoughts on OKLETSGO lewd remarks controversy part 1"
 date: 2020-06-13T15:37:58+08:00
 ---
 
