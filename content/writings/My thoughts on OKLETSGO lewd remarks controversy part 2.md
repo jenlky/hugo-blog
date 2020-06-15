@@ -3,9 +3,9 @@ title: "My thoughts on OKLETSGO lewd remarks controversy part 2"
 date: 2020-06-14T23:23:18+08:00
 ---
 
-Here's a more [comprehensive article]([https://hypeandstuff.com/okletsgo-spotify-podcast-misogynstic-towards-women/](https://hypeandstuff.com/okletsgo-spotify-podcast-misogynstic-towards-women/)) with snippets of the audio that showcase examples of lewd comments. The evidence looks damning against OKLETSGO.
+Here's a more [comprehensive article](https://hypeandstuff.com/okletsgo-spotify-podcast-misogynstic-towards-women/) with snippets of the audio that showcase examples of lewd comments. The evidence looks damning against OKLETSGO.
 
-My personal favourite [nuanced take]([https://www.facebook.com/mysaraaljaru/posts/10157212098346961](https://www.facebook.com/mysaraaljaru/posts/10157212098346961)) is by Mysara. Let's break it down and take a look. Mysara's definition of misogyny is where the sexualisation, objectifying and violence towards women are normalised by both men and women. Regarding sexualisation and objectifying, aren't top female models paid a lot more than male models? I wonder how women will feel if such lucrative career options were to be dismantled. 
+My personal favourite [nuanced take](https://www.facebook.com/mysaraaljaru/posts/10157212098346961) is by Mysara. Let's break it down and take a look. Mysara's definition of misogyny is where the sexualisation, objectifying and violence towards women are normalised by both men and women. Regarding sexualisation and objectifying, aren't top female models paid a lot more than male models? I wonder how women will feel if such lucrative career options were to be dismantled. 
 
 > What is also obvious is the lack of accountability from the hosts towards the reaction of their diehard fans, of which other than shaming, tell women they should be raped even.
 
