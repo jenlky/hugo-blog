@@ -1,0 +1,14 @@
+---
+title: "I want to be acknowledged and my frustrations with life"
+date: 2020-06-17T23:58:43+08:00
+---
+
+In my previous post, I touched on my desire for other people to acknowledge my strength and competence. But why do I have that belief? I think it lurks on within me because I think my intelligence should justify me a better treatment than other people. I should be more successful and well-respected than my peers. Unfortunately, I don't think as much as I "inherited" from my dad. He has a one-dimensional view of intelligence and thinks that it is the most valuable trait for worldly success. I can tell he's upset that his peers who are less intelligent than him are doing better than him in life. 
+
+However, he fails to consider the importance of social intelligence, the ability to resolve conflict, to cajole, convince, coerce, and coordinate with other people effectively. These are probably the most important traits after IQ which is a strong predictor of career success.
+
+For the longest time, I've had the same feeling in social situations too. I wanted to be recognise as funny, charming and attractive. I'd feel uncomfortable if someone who is less intelligent/funny/good-looking than me was admired for possessing all these good qualities but not me. There was once I conveniently forgot to invite a friend to a group outing because I didn't want to share the attention with him.
+
+I was oozing with bitterness and resentment during National Service because I was doing more work than my peers yet I wasn't recognised for it. My conduct was good compared to the other clerk who got very good. To be fair, he had done his share of work and we were both very similar in our productivity. However, I was a lot sharper than him, had a better memory of the to-do tasks and tend to accomplish it in one go. He, on the other hand, had more praises and recognition than I ever got simply by being more vocal. It was a dominance hierarchy based on coercion, embarrassment and humiliation to regulate individuals' behaviour. He was at the top of it, or in his friend's words, it's like we worshipped him. 
+
+A recurring motif in my life is the constant feeling that my life hasn't really started, that I'm not living it until I accomplish X. Yes, I've made some progress but I'm still faced with the same problems I have had for many years: making friends, having a medium-term goal etc. What problems am I facing? Despite using Twitter, I'm still not having as much stimulating conversations as I could. I'm not writing as much as I want? I can start on a topic and get bored of it halfway. I'm not learning as much as I want about something. I want to have another monitor and that probably requires buying a new table. Despite everything, I still feel like I'm nowhere near reaching my potential. 
