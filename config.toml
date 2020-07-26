@@ -6,7 +6,7 @@ theme = "diary"
 
 [params]
   disableToC= true
-  subtitle = "Writing as conceptual piping"
+  subtitle = "Rewiring perception via words"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"

@@ -41,6 +41,7 @@
   </script>
 
   <script src="{{.Site.BaseURL}}/js/table.js"></script>
+  {{ template "_internal/twitter_cards.html" . }}
 
   {{ if .Params.enableMathJax }}
   {{ partial "mathjax.html" . }}
