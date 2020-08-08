@@ -1,6 +1,6 @@
 ---
 title: "Gathering my thoughts on friendship during GE2020"
-date: 2020-08-08T11:04:27+08:00
+date: 2020-07-15T23:43:27+08:00
 ---
 
 I went out twice and met two groups of friends during GE2020 election week. During the interactions, I wasn’t bored but neither was I particularly excited or intellectually stimulated. It took effort to get the conversation rolling and even then I didn’t really enjoy it that much. I could tell TheSpecialOne felt the same.
