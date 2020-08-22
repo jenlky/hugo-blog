@@ -3,7 +3,7 @@ title: "My terrible flirting game and the origins of it"
 date: 2020-06-04T23:37:58+08:00
 ---
 
-I have noticed there's a recurring pattern to how I flirt with girls. For example, I happened to be walking behind the two NUS interns (C & C) on a rainy day. They were sharing an umbrella and walking side by side to the nearby station. I made fun of her by saying the both of them looked sweet sharing an umbrella together. It was child's play in both sense of the phrase. 
+I noticed there's a recurring pattern to how I flirt with girls. For example, I happened to be walking behind two NUS interns (C & C) on a rainy day. She was sharing an umbrella with the guy and walking side by side together to the nearby station. I made fun of her by saying the both of them looked sweet sharing an umbrella. It was child's play in both sense of the phrase. 
 
 Why did I do that? I think I did it because she was sort of pretty and I wanted to get her attention. It doesn't help that I wasn't a well-respected individual in the group. I can't believe mean behaviour was actually my big-brain 200 IQ strat to get girls lol. It's been ingrained in me ever since I was young: my emotional patterns and social interaction behaviours actually bears uncanny resemblance to that of my dad's. I used to be the stereotypical Tsundere, cold and hostile before gradually warming up and showing a friendlier side. 
 
