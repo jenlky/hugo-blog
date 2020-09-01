@@ -14,15 +14,17 @@ Hi, I'm Jenssen Lee Kang Yuan or jens for short!
 
 I'm a Software Engineer in Singapore who has been programming for over a year 
 and graduated from ThoughtWorks Jumpstart, a 3 months coding bootcamp. 
-This site contains my writings on technology, software development etc along with my portfolio.
+
+I'm now working at a consultancy building websites for financial companies.
+This site contains my blog along with my portfolio.
 
 *Why do I want to work with software?* 
 
-Software is eating the world. I want to partake in it because it's where I can maximise impact at scale.
-It has a low barrier to entry as with writing. You are a Writer and a Software Developer as long as you make money off it.
-I enjoy solving problems and working with individuals dedicated to their craft.
+Software is eating the world. There is a low barrier to entry to it than say in medicine.
+It's the same with writing - you are a Writer and a Software Developer as long as you make money off it.
+I choose to participate in it because I believe that's where I can make a meaningful impact at scale.
 
- My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
+My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
 
 [Github](https://github.com/jenlky)
 &nbsp;
