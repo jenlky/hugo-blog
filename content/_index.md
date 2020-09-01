@@ -3,7 +3,7 @@ title: "Jenssen Lee"
 date: 2020-04-11T17:24:36+08:00
 lastmod: 2020-05-24T17:24:36+08:00
 featured_image: "/images/profile-pic.jpeg"
-comment : false
+comment: false
 draft: false
 enableMathJax: true
 ---
