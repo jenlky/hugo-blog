@@ -1,3 +1,7 @@
+---
+title: "How can you get better at asserting your preferences backed by feelings?"
+date: 2020-11-29T17:47:34+08:00
+---
 I started working this year and my colleagues are really kind people (not nice as distinguished from nice guys). Initially I had my guard up and viewed any innocuous questions with suspicion as if my answer could potentially be used against me. My co-worker could sense my hesitance and explained why he asked the question to assuage my worries. 
 
 For example, if I accidentally dozed off he would ask me if I had any problems sleeping at night. He was genuinely concerned as opposed to giving me problems. The interactions in that collaborative, nurturing and transparent environment taught me there are people out there who would care about your Preferences. It’s the same with asking questions or asking favours on the Internet; there are also a surprising number of people who would do you trivial (or even non-trivial) favours. 
