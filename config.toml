@@ -6,7 +6,7 @@ theme = "diary"
 
 [params]
   disableToC= true
-  subtitle = "Rewiring modal reality with words"
+  subtitle = "Rewiring my reality with words"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"
