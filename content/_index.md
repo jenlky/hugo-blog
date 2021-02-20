@@ -1,7 +1,7 @@
 ---
 title: "Jenssen Lee"
 date: 2020-04-11T17:24:36+08:00
-lastmod: 2020-05-24T17:24:36+08:00
+lastmod: 2021-02-20T22:53:36+08:00
 featured_image: "/images/profile-pic.jpeg"
 comment: false
 draft: false
@@ -10,20 +10,18 @@ enableMathJax: true
 
 ### About Me ###
 
-Hi, I'm Jenssen Lee Kang Yuan or jens for short!
+Hi, I'm Jenssen Lee Kang Yuan or call me Jens!
 
 I'm a Software Engineer in Singapore who has been programming for over a year 
 and graduated from ThoughtWorks Jumpstart, a 3 months coding bootcamp. 
 
-I'm currently working at Wen Consulting Pte Ltd. We build mobile-responsive websites for financial companies.
+I'm currently working at Wen Consulting Pte Ltd where we provide integrated solutions to financial services. Opinions expressed on this site are my own. 
 
-My blog contains my writings and my portfolio. Opinions expressed on this site are my own. 
+**Why do I want to work with software?**
 
-*Why do I want to work with software?* 
-
-Software is eating the world. There is a lower barrier of entry to it than say in medicine.
+Software is eating the world. There is a lower barrier of entry to it than say medicine.
 It's the same with writing - you are a Writer and a Software Developer as long as you make money off it.
-I choose to participate in it because I believe that's where I can make a meaningful impact at scale.
+I choose to join this industry because given my circumstances, it was the best choice for me to make a meaningful impact at scale.
 
 My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
 
