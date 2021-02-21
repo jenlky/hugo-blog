@@ -1,12 +1,13 @@
 baseURL = "https://jenlky.com/"
 languageCode = "en-us"
 title = "Jenssen Lee"
-copyright = "This is a customized copyright."
+copyright = "2018 - 2021 Jenssen Lee"
 theme = "diary"
+paginate = 1000
 
 [params]
   disableToC= true
-  subtitle = "Reorienting my reality with words"
+  subtitle = "Reorientation in hyperstimulation"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"

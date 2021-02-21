@@ -1,6 +1,9 @@
 {{ define "main" }}
 <div ref="streamContainer" class="stream-container">
   <div class="post-list-container post-list-container-shadow" style="padding: 0;">
+    <div style="text-align: center; font-weight: 700; padding-top: 12px;">
+      Total posts: <span>{{ len (where .Site.RegularPages "Section" "=" .Section) }}</span>
+    </div>
     {{ range .Paginator.Pages.GroupByDate "2006" }}
     <a class="a-block">
       <div class="post-item-wrapper post-item-wrapper-no-hover">
@@ -8,6 +11,7 @@
           <div class="post-item-info-wrapper">
             <div class="post-item-title post-item-title-small year">
               {{ .Key }}
+              ({{ len .Pages }})
             </div>
           </div>
         </div>
