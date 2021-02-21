@@ -1,7 +1,7 @@
 ---
 title: "Jenssen Lee"
 date: 2020-04-11T17:24:36+08:00
-lastmod: 2021-02-20T22:53:36+08:00
+lastmod: 2021-02-21T10:10:36+08:00
 featured_image: "/images/profile-pic.jpeg"
 comment: false
 draft: false
@@ -19,9 +19,9 @@ I'm currently working at Wen Consulting Pte Ltd where we provide integrated solu
 
 **Why do I want to work with software?**
 
-Software is eating the world. There is a lower barrier of entry to it than say medicine.
-It's the same with writing - you are a Writer and a Software Developer as long as you make money off it.
-I choose to join this industry because given my circumstances, it was the best choice for me to make a meaningful impact at scale.
+Software is eating the world. There is a low barrier of entry and gatekeeping to it than say medicine. It affords the freedom to learn on your own like writing. You are a Writer and a Software Developer as long as you make money off it. I chose to join this industry because given my circumstances, it was the best choice for me to make a meaningful impact at scale. 
+
+While I'm optimistic about the power of technology, I'm pessimistic about it as a tool to regulate human's behaviour. When I served in the military, I learnt the efficiacy of peer pressure when the whole platoon is punished for one person's mistake. The most advanced social technology we have is a village and we've replaced it with monolithic institutions.
 
 My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
 
