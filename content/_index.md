@@ -24,7 +24,7 @@ I'm currently working at Wen Consulting Pte Ltd where we provide integrated solu
 
 Software is eating the world. There is a low barrier of entry and gatekeeping to it than say medicine. It affords the freedom to learn on your own like writing. You are a Writer and a Software Developer as long as you make money off it. I chose to join this industry because given my circumstances, it was the best choice for me to make a meaningful impact at scale. 
 
-While I'm optimistic about the power of technology, I'm pessimistic about it as a tool to regulate human's behaviour. When I served in the military, I learnt the efficiacy of peer pressure and social controls when the whole platoon is punished for one person's mistake. We've replaced the most advanced social technology we ever had aka a village with monolithic institutions and I'm not convinced that's a good idea.
+While I'm optimistic about the power of technology, I'm pessimistic about it as a tool to regulate human's behaviour. During my National Service in the military, I learnt the efficiacy of peer pressure and social controls when the whole platoon was punished for one person's mistake. We've replaced the most advanced social technology we have ever known aka a village with monolithic institutions and I'm not unconvinced that's a good idea.
 
 My email address is <a href="mailto:jenssen.lee@gmail.com">jenssen.lee@gmail.com</a>
 
