@@ -40,7 +40,8 @@
                 <div class="post-body">
                     <div style="background-image: url('{{ $featured_image | relLangURL}}');
                         background-repeat: no-repeat;
-                        background-size: contain; height: 376px; width: 302px;"></div>
+                        background-size: contain; height: 376px; width: 302px;
+                        border-radius: 5px;"></div>
                     {{.Content}}
                     {{ if not .Lastmod.IsZero }}
                     <HR width="100%" id="EOF">
