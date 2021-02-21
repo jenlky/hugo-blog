@@ -8,7 +8,7 @@ googleAnalytics = "UA-139118044-1"
 
 [params]
   disableToC= true
-  subtitle = "Reorienting yourself in hyperstimulation"
+  subtitle = "Reorienting yourself on the superhighway"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"
