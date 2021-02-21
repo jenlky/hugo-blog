@@ -7,7 +7,7 @@ paginate = 1000
 
 [params]
   disableToC= true
-  subtitle = "Reorientation in hyperstimulation"
+  subtitle = "Reorienting yourself in hyperstimulation"
   enableGitalk = false
   enableReadingTime = true
   disqusShortname = "jenlky"
