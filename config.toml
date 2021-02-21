@@ -4,6 +4,7 @@ title = "Jenssen Lee"
 copyright = "2018 - 2021 Jenssen Lee"
 theme = "diary"
 paginate = 1000
+googleAnalytics = "UA-139118044-1"
 
 [params]
   disableToC= true
