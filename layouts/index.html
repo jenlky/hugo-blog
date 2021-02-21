@@ -8,9 +8,10 @@
                 {{ $post_class = "post-head-wrapper"}}
             {{ end }}
 
-            <div class="{{$post_class}}"
-                 style="background-image: url('{{ $featured_image | relLangURL}}'); background-size: contain; height: 200px;">
-                <!-- <div class="post-title" style="background-color: none !important;">
+            <!-- this is header -->
+            <!-- <div class="{{$post_class}}" 
+                style="background-image: url('{{ $featured_image | relLangURL}}'); background-size: cover; height: 200px; width: 200px;">
+                <div style="background-color: none !important;">
                     {{ .Title }}
                     {{ if .Params.description }}
                     <div class="post-subtitle">
@@ -32,11 +33,14 @@
                             {{ end }}
                         {{ end }}
                     </div>
-                </div> -->
-            </div>
+                </div>
+            </div> -->
             
             <div class="post-body-wrapper">
                 <div class="post-body">
+                    <div style="background-image: url('{{ $featured_image | relLangURL}}');
+                        background-repeat: no-repeat;
+                        background-size: contain; height: 376px; width: 302px;"></div>
                     {{.Content}}
                     {{ if not .Lastmod.IsZero }}
                     <HR width="100%" id="EOF">
