@@ -12,15 +12,22 @@ There’s only one person who has been there for me since the start. I won’t f
 I’m writing to reaffirm my primary aims because I have a bad habit of overhelping people or overinvesting in friendships.
 
 My one-track mind to “help” results in a tunnel vision. For example, a friend was working here on Long Term Visit Pass. I suggested becoming a Singapore Permanent Resident and offered help even though a problem wasn’t articulated and my help was requested. On hindsight, I shouldn’t have done that because these are the necessary steps for them to take. Real change only happens if you voluntarily choose it out of your own volition. My “help” was actually diminishing their initiative and it was not what they wanted or needed anyway. It’s like the proverb, “When the student is ready, the teacher will appear.”
+
 On overinvesting in friendships. It’s the same problem when I reach out to my friends and kickstart a topic/activity without assessing their comfort level and adjusting my reaction in real time. For example, if someone says “I want to do X, Y and Z” and doesn’t explicitly ask for my help, I shouldn’t resort to mind-reading. 
 
 I'm not saying you shouldn't take a step to bridge the distance. I'm saying you should take a small unintrusive step with open arms and open palms to demonstrate your sincerity and watch their reaction. Note: do that only if you feel like it, don’t do that because you feel like you should because that’s the path to resentment. You are free to exit the conversation whenever you want. The number of available social moves are much more than you think.
 
-What should you watch out for? if they flinch or jerk back, you should pause and reassess. If they don't protest, that's a greenlight to continue. If they reciprocate, that could mean they're receptive or interested in what you're saying. If they don't reciprocate, that's fine too. The key is to make it easy for them to reply or refuse without making it embarrassing for both parties. This is so that rejection doesn't mean they want to cut you off from their life.
+What should you watch out for? If they flinch or jerk back, you should pause and reassess. If they don't protest, that's a greenlight to continue. If they reciprocate, that could mean they're receptive or interested in what you're saying. If they don't reciprocate, that's fine too. The key is to make it easy for them to reply or refuse without making it embarrassing for both parties. This is so that rejection doesn't mean they want to cut you off from their life.
 
-Of course, what I’m saying is very context dependent. Here are some questions to consider: 
+Of course, what I’m saying is very context dependent. Here are some questions to consider whenever you're having a conversation: 
 
-Are they uncomfortable with talking to you or is it just that specific topic? Do they prefer to use the first person pronouns (I, me, we, us), second person pronouns (you) or third person (he, him, she, her)? Do they prefer to direct the attention to themselves, you or others? Or do they prefer to talk about mechanics, systems, rules and regulations? Do they share stories of their personal lives or do they deflect the attention and redirect it back to you? Do they use any emoji? Who usually initiates the conversation and what topics do they initiate it with? Do they prefer to initiate with a question or a statement?
+- Are they uncomfortable with talking to you or is it just that specific topic? 
+- Do they prefer to use the first person pronouns (I, me, we, us), second person pronouns (you) or third person (he, him, she, her)? 
+- Do they prefer to direct the attention to themselves, you or others? Or do they prefer to talk about mechanics, systems, rules and regulations? 
+- Do they share stories of their personal lives or do they deflect the attention and redirect it back to you? 
+- Do they use any emoji? 
+- Who usually initiates the conversation and what topics do they initiate it with? 
+- Do they prefer to initiate with a question or a statement?
 
 What I can do better is to provide hooks by talking about my interests and making small bids. For example, Twitter threads or standing invitations on your blog/biography are a way to express your interests. Start with small bids first by talking to them in public, privately message them and then getting a coffee. Over time a mold of them starts to form in your head as you learn to pay attention to their reactions.
 
